@@ -6,7 +6,7 @@
 ### How to reach me: 
 <a href="mailto: shivanijpawar2003@gmail.com">
 <img src="https://img.shields.io/badge/-shivanijpawar2003@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/shivani-pawar-1138382a4/"><img src="https://img.shields.io/badge/shivani%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/shivani-pawar-1138382a4/"><img src="https://img.shields.io/badge/Manvi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
